@@ -1,4 +1,4 @@
-## WHALAR APP TRIAL
+## Whalar app 
 
 SWAPI is an app for Star Wars fans, where they can see the main characteristics of the characters in this saga.
 
